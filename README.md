@@ -1,7 +1,7 @@
 # HRMS-Backend
 HRMS
 
-Dependencies
+--- Dependencies ---
 
 Spring Boot DevTools
 
