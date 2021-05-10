@@ -1,5 +1,5 @@
 # HRMS-Backend
-HRMS
+HRMS ( Human resource management system )
 
 --- Dependencies ---
 
